@@ -162,7 +162,7 @@
               <span class="author-block">
                 <a href="https://jazzcharles.github.io/">Jilan Xu</a><sup>2,4</sup>,</span>
                 <span class="author-block">
-              <a>Yuping He</a><sup>2,5</sup>,</span>
+              Yuping He<sup>2,5</sup>,</span>
               <span class="author-block">
                 <a href="https://scholar.google.com/citations?user=lRj3moAAAAAJ&hl=zh-CN">Guo Chen</a><sup>5</sup>,</span>
             <span class="author-block">
@@ -250,7 +250,7 @@
           <p>
             Unlike general video reasoning, egocentric video reasoning poses unique challenges because it must infer an unobservable camera wearer’s interactions and intentions. EgoThinker addresses this by curating EgoRe-5M, a large-scale egocentric reasoning dataset, and applying a two-stage supervised and reinforcement fine-tuning paradigm. This design empowers robust egocentric reasoning chat, hand–object grounding, and temporal grounding, making EgoThinker a promising foundation for wearable assistants and embodied AI.
           </p>
-          <img src="./static/images/teaser.png">
+          <img src="./static/images/teaser.jpg">
         </div>
       </div>
     </div>
@@ -266,7 +266,7 @@
         <b>(a)</b> To overcome this scale bottleneck in egocentric data, we develop a multi-stage filtering pipeline to mine high-quality egocentric clips from web-sourced videos, through the pipeline we get 8.7M high-quality egocentric clips, each containing rich, dynamic interactions suitable for downstream QA annotation and we combine them with existing egocentric dataset to form a collection of 13M egocentric video clips in total.
         <b>(b)</b> Based on the large-scale video clips, we build EgoRe-5M, an automatically generated QA corpus containing short-term perception, long-term causal reasoning, chain-of-thought rationales, and fine-grained grounding.
       </p>
-       <img src="./static/images/dataset.png">
+       <img src="./static/images/dataset.jpg">
      </div>
    </div>
  </div>
@@ -282,40 +282,18 @@
         <p>
           To verify the hand-object grounding ability of EgoThinker, We compare our method to baseline Qwen2-VL, GPT-4o and expert model Grounding-DINO. We utilize different prompts tailored to each model and for each image, we use "chopping board", "knife", "right hand" as query for grounding.
       </p>
-        <img src="./static/images/spatial.png">
+        <img src="./static/images/spatial.jpg">
       </div>
 
       <div class="container has-text-justified is-max-desktop">
         <p>
           Compared EgoThinker to baseline Qwen2-VL and one of the strongest MLLM Gemini2.5-Pro for temporal grounding task.
       </p>
-        <img src="./static/images/temporal.png">
+        <img src="./static/images/temporal.jpg">
       </div>
     </div>
   </div> 
 </section>
-
-<section class="section" id="BibTeX">
-
-    <div class="container is-max-desktop content">
-  
-    <h2 class="title">BibTeX</h2>
-  
-      <pre><code>@article{zhang2025accvideo,
-    title={AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset},
-    author={Zhang, Haiyu and Chen, Xinyuan and Wang, Yaohui and Liu, Xihui and Wang, Yunhong and Qiao, Yu},
-    journal={arXiv preprint arXiv:2503.19462},
-    year={2025}
-  }</code></pre>
-  
-   </div>
-  
-  </section>
-
-
-<!--/TODO: insert citation. -->
-<!--TODO: modeify bibtex-->
-
 
 
 <footer class="footer">
