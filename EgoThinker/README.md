@@ -1,2 +1,2 @@
-# stag4d_webpage
-webpage for stag4d
+# egothinker_webpage
+webpage for egothinker
