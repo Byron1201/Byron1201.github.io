@@ -101,65 +101,21 @@ Yi Wang, Kunchang Li, Xinhao Li, Jiashuo Yu, Yinan He, Guo Chen, **Baoqi Pei**, 
 </div>
 </div>
 
-[A](https://arxiv.org/abs/2408.13252) [SIGGRAPH 2025]
-
-Shuai Yang, Jing Tan, **Mengchen Zhang**, Tong Wu, Yixuan Li, Gordon Wetzstein, Ziwei Liu, Dahua Lin
-
-[**[Project]**](https://ys-imtech.github.io/projects/LayerPano3D/)&nbsp;
-[**[Paper]**](https://arxiv.org/abs/2408.13252)&nbsp;
-[**[Code]**](https://github.com/3DTopia/LayerPano3D)&nbsp;
-
-<hr> 
-
-[IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations](https://lizb6626.github.io/IDArb/) [ICLR 2025]
-
-Zhibing Li, Tong Wu, Jing Tan, **Mengchen Zhang**, Jiaqi Wang, Dahua Lin
-
-[**[Project]**](https://lizb6626.github.io/IDArb/)&nbsp;
-[**[Paper]**](https://arxiv.org/abs/2412.12083)&nbsp;
-[**[Code]**](https://github.com/Lizb6626/IDArb/)&nbsp;
-[**[Data]**](https://huggingface.co/datasets/lizb6626/Arb-Objaverse)
-
-<hr>
-[FiVA: Fine-grained Visual Attribute Dataset for Text-to-Image Diffusion Models](https://arxiv.org/abs/2412.07674) [NeurIPS 2024 (Datasets and Benchmarks Track)]
-
-Tong Wu, Yinghao Xu, Ryan Po, **Mengchen Zhang**, Guandao Yang, Jiaqi Wang, Ziwei Liu, Dahua Lin, Gordon Wetzstein
-
-[**[Project]**](https://fiva-dataset.github.io/)&nbsp;
-[**[Paper]**](https://arxiv.org/abs/2412.07674)&nbsp;
-[**[Code]**](https://github.com/wutong16/FiVA)&nbsp;
-[**[Data]**](https://huggingface.co/datasets/FiVA/FiVA)
-
-
-<hr> 
-[Tailor3D: Customized 3D Assets Editing and Generation with Dual-Side Images](https://arxiv.org/abs/2407.06191) [Arxiv 2024]
-
-Zhangyang Qi, Yunhan Yang, **Mengchen Zhang**, Long Xing, Xiaoyang Wu, Tong Wu, Dahua Lin, Xihui Liu, Jiaqi Wang, Hengshuang Zhao
-
-[**[Project]**](https://tailor3d-2024.github.io/)&nbsp;
-[**[Paper]**](https://arxiv.org/abs/2407.06191)&nbsp;
-[**[Code]**](https://github.com/Qi-Zhangyang/Tailor3D)&nbsp;
-
-<hr> 
-[Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases](https://arxiv.org/abs/2312.15011) [Arxiv 2023]
-
-Zhangyang Qi, Ye Fang, **Mengchen Zhang**, Zeyi Sun, Tong Wu, Ziwei Liu, Dahua Lin, Jiaqi Wang, Hengshuang Zhao
-
-[**[Project]**](https://github.com/Qi-Zhangyang/Gemini-vs-GPT4V)&nbsp;
-[**[Paper]**](https://arxiv.org/abs/2312.15011)&nbsp;
-
-<hr> 
-[Image data augmentation for deep learning: A survey](https://arxiv.org/abs/2204.08610) [Arxiv 2022]
-
-Suorong Yang, Weikang Xiao, **Mengchen Zhang**, Suhan Guo, Jian Zhao, Furao Shen
+- [Egoexobench: A benchmark for first-and third-person view video understanding in mllms](https://arxiv.org/abs/2507.18342), Yuping He, Yifei Huang, Guo Chen, **Baoqi Pei**, et al. **NIPS 2025**
+- [Bridging Perspectives: A Survey on Cross-view Collaborative Intelligence with Egocentric-Exocentric Vision](https://arxiv.org/pdf/2506.06253), Yuping He, Yifei Huang, Guo Chen, Lidong Lu, **Baoqi Pei**, et al. **Arxiv 2025**
+- [X-Gen: Ego-centric Video Prediction by Watching Exo-centric Videos](https://openreview.net/forum?id=8J2DrrWDKE), Jilan Xu, Yifei Huang, **Baoqi Pei**, Junlin Hou, Qingqiu Li, Guo Chen, et al. **ICLR 2025**
+- [Cg-bench: Clue-grounded question answering benchmark for long video understanding](https://arxiv.org/abs/2412.12075), Guo Chen, Yicheng Liu, Yifei Huang, Yuping He, **Baoqi Pei**, Jilan Xu, Yali Wang, Tong Lu, Limin Wang. **ICLR 2025**
+- [Egovideo: Exploring egocentric foundation model and downstream adaptation](https://arxiv.org/abs/2406.18070), **Baoqi Pei**, Guo Chen, Jilan Xu, Yuping He, Yicheng Liu, et al. **EgoVis Challenge**
+- [Video mamba suite: State space model as a versatile alternative for video understanding](https://arxiv.org/abs/2403.09626), Guo Chen*, Yifei Huang*, Jilan Xu*, **Baoqi Pei\***, Zhe Chen, Zhiqi Li, Jiahao Wang, Kunchang Li, Tong Lu, Limin Wang. **Arxiv 2024**
+- [Egoexolearn: A dataset for bridging asynchronous ego-and exo-centric view of procedural activities in real world](http://openaccess.thecvf.com/content/CVPR2024/html/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.html), Yifei Huang, Guo Chen, Jilan Xu, Mingfang Zhang, Lijin Yang, **Baoqi Pei**, et al. **Arxiv 2024**
 
 # 📖 Educations
 - *2023.09 - Present*, Ph.D. in College of Computer Science and Technology, Zhejiang University.
-- *2019.09 - 2023.06*, B.Sc. in School of Artificial Intelligence, Nanjing University.
+- *2019.09 - 2023.06*, B.Sc. in College of Computer Science, BeiHang University.
 
 # 🎖 Honors and Awards
-- *2022.09*, National Scholarship
+- Winner of the 7 tracks in the 1st EgoVis Workshop @ CVPR 2024
+- Distinguished Paper Award in Egovis 2023/2024
+- Outstanding Graduate Student in Zhejiang University, 2025
+- Outstanding Student Scholarship in Beihang University, 2021
 
-#  Misc
-- Graduated from Suzhou High School
-- [BIng 🧊](https://lizb6626.github.io/) is both my best friend and collaborator. Wish her all the best and good luck!
