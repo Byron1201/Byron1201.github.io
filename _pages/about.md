@@ -17,7 +17,7 @@ My research interest includes general video understanding, egocentric vision per
 
 
 # 🔥 News
-- *2025.09*: &nbsp;  Two papers [EgoThinker](https://github.com/InternRobotics/EgoThinker) and [Egoexobench](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=sTCkd54AAAAJ&sortby=pubdate&citation_for_view=sTCkd54AAAAJ:ufrVoPGSRksC) were accepted to **NIPS 2025**.
+- *2025.09*: &nbsp;  Two papers [EgoThinker](https://github.com/InternRobotics/EgoThinker) and [Egoexobench](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=sTCkd54AAAAJ&sortby=pubdate&citation_for_view=sTCkd54AAAAJ:ufrVoPGSRksC) were accepted to **NeurIPS 2025**.
 - *2025.06*: &nbsp;  Our [Vinci](https://github.com/OpenGVLab/vinci) was accepted to **IMMUT 2025**.
 - *2025.06*: &nbsp;  Our [CoQo](https://link.springer.com/article/10.1007/s11263-025-02510-7) was accepted to **IJCV**.
 - *2024.12*: &nbsp;  3 papers [EgoHOD](https://github.com/OpenRobotLab/EgoHOD/), [EgoExo-Gen](https://arxiv.org/abs/2504.11732) and [CG-Bench](https://github.com/CG-Bench/CG-Bench) were accepted to **ICLR 2025**.
@@ -27,7 +27,7 @@ My research interest includes general video understanding, egocentric vision per
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/papers/EgoThinker.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/EgoThinker.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT](https://github.com/InternRobotics/EgoThinker)
@@ -101,7 +101,7 @@ Yi Wang, Kunchang Li, Xinhao Li, Jiashuo Yu, Yinan He, Guo Chen, **Baoqi Pei**, 
 </div>
 </div>
 
-- [Egoexobench: A benchmark for first-and third-person view video understanding in mllms](https://arxiv.org/abs/2507.18342), Yuping He, Yifei Huang, Guo Chen, **Baoqi Pei**, et al. **NIPS 2025**
+- [Egoexobench: A benchmark for first-and third-person view video understanding in mllms](https://arxiv.org/abs/2507.18342), Yuping He, Yifei Huang, Guo Chen, **Baoqi Pei**, et al. **NeurIPS 2025**
 - [Bridging Perspectives: A Survey on Cross-view Collaborative Intelligence with Egocentric-Exocentric Vision](https://arxiv.org/pdf/2506.06253), Yuping He, Yifei Huang, Guo Chen, Lidong Lu, **Baoqi Pei**, et al. **Arxiv 2025**
 - [X-Gen: Ego-centric Video Prediction by Watching Exo-centric Videos](https://openreview.net/forum?id=8J2DrrWDKE), Jilan Xu, Yifei Huang, **Baoqi Pei**, Junlin Hou, Qingqiu Li, Guo Chen, et al. **ICLR 2025**
 - [Cg-bench: Clue-grounded question answering benchmark for long video understanding](https://arxiv.org/abs/2412.12075), Guo Chen, Yicheng Liu, Yifei Huang, Yuping He, **Baoqi Pei**, Jilan Xu, Yali Wang, Tong Lu, Limin Wang. **ICLR 2025**
