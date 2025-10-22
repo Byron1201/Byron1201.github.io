@@ -8,43 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a second-year Ph.D. student at [College of Computer Science and Technology, Zhejiang University](http://www.cs.zju.edu.cn/), supervised by Prof. [Dahua Lin](http://dahua.site/). 
-I also work closely with [Tong Wu](https://wutong16.github.io/) and [Ziwei Liu](https://liuziwei7.github.io/). Prior to this, I earned my Bachelor's degree from [School of Artificial Intelligence, Nanjing University](https://ai.nju.edu.cn/main.htm) in 2023.
+I am a third-year Ph.D. student at College of Computer Science and Technology, Zhejiang University, supervised by Prof. [Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en) and Prof [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en), and I work closely with [Yifei Huang](https://hyf015.github.io/) Prior to this, I got my Bachelor's degree from [Beihang University](https://is.buaa.edu.cn/en/) in 2023.
 
-My research interest includes 3D/4D generation and pose estimation. I have published papers with total google scholar citations <a href='https://scholar.google.com/citations?user=oWXEaQoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes general video understanding, egocentric vision perception and multimodal large language models. 
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉  One first-author paper accepted to [TOG (Siggraph Asia 2025 Journal)](https://dl.acm.org/journal/tog).
-- *2025.06*: &nbsp;🎉🎉  One first-author paper accepted to [ICCV 2025](https://iccv.thecvf.com/).
-- *2025.03*: &nbsp;🎉🎉  One paper accepted to [Siggraph 2025](https://s2025.siggraph.org/).
-- *2025.01*: &nbsp;🎉🎉  One paper accepted to [ICLR 2025](https://iclr.cc/).
-- *2024.09*: &nbsp;🎉🎉  One paper accepted to [NeurIPS 2024 (D&B Track)](https://neurips.cc/).
-- *2024.07*: &nbsp;🎉🎉  One first-author paper accepted to [ECCV 2024](https://eccv.ecva.net/).
-- *2023.07*: &nbsp;🎉🎉  We are organizing [OmniObject3D Challenge](https://omniobject3d.github.io/challenge.html), hosted by [AI for 3D Content Creation Workshop](https://ai3dcc.github.io/) on [ICCV 2023](https://iccv2023.thecvf.com/).
+- *2025.09*: &nbsp;  Two papers [EgoThinker](https://github.com/InternRobotics/EgoThinker) and [Egoexobench](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=sTCkd54AAAAJ&sortby=pubdate&citation_for_view=sTCkd54AAAAJ:ufrVoPGSRksC) were accepted to **NIPS 2025**.
+- *2025.06*: &nbsp;  Our [Vinci](https://github.com/OpenGVLab/vinci) was accepted to **IMMUT 2025**.
+- *2025.06*: &nbsp;  Our [CoQo](https://link.springer.com/article/10.1007/s11263-025-02510-7) was accepted to **IJCV**.
+- *2024.12*: &nbsp;  3 papers [EgoHOD](https://github.com/OpenRobotLab/EgoHOD/), [EgoExo-Gen](https://arxiv.org/abs/2504.11732) and [CG-Bench](https://github.com/CG-Bench/CG-Bench) were accepted to **ICLR 2025**.
+- *2024.6*: &nbsp;  [Internvideo2](https://github.com/OpenGVLab/InternVideo) was accepted to **ECCV 2024**.
+- *2024.07*: &nbsp;  Our [EgoVideo](https://github.com/OpenGVLab/EgoVideo) won **<span style="color:red">7 championships</span>** in [EgoVis Challenge](https://egovis.github.io/) at CVPR 2024 Workshop.
+- *2024.01*: &nbsp;  [EgoexoLearn](https://github.com/OpenGVLab/EgoExoLearn) is accepted to **CVPR 2024**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/papers/GenDoP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/papers/EgoThinker.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography](https://arxiv.org/abs/2504.07083) [ICCV 2025]
+[EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT](https://github.com/InternRobotics/EgoThinker)
 
-**Mengchen Zhang**, Tong Wu, Jing Tan, Ziwei Liu, Gordon Wetzstein, Dahua Lin
+Baoqi Pei, Yifei Huang, Jilan Xu, Yuping He, Guo Chen, et al.
 
-[**[Project]**](https://kszpxxzmc.github.io/GenDoP/)&nbsp;
-[**[Paper]**](https://arxiv.org/abs/2504.07083)&nbsp;
-[**[Code]**](https://github.com/3DTopia/GenDoP)&nbsp;
-[**[Data]**](https://huggingface.co/datasets/Dubhe-zmc/DataDoP)
+[**[Paper]**](https://github.com/InternRobotics/EgoThinker)&nbsp;
+[**[Code]**](https://github.com/InternRobotics/EgoThinker)&nbsp;
+[**[Data]**](https://github.com/InternRobotics/EgoThinker)
 
 </div>
 </div>
@@ -140,6 +132,6 @@ Suorong Yang, Weikang Xiao, **Mengchen Zhang**, Suhan Guo, Jian Zhao, Furao Shen
 # 🎖 Honors and Awards
 - *2022.09*, National Scholarship
 
-# 🎉 Misc
+#  Misc
 - Graduated from Suzhou High School
 - [BIng 🧊](https://lizb6626.github.io/) is both my best friend and collaborator. Wish her all the best and good luck!

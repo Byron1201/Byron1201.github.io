@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Baoqi Pei"
 description              : ""
-repository               : "Byron2001/Byron2001-homepage.github.io"
+repository               : "Byron1201/Byron1201.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Baoqi Pei"
-  avatar           : "images/d.jpg"
-  bio              : "Phd student@ZJU, \n CS Bachelor@BUAA"
+  avatar           : "images/d.jpeg"
+  bio              : "Zhejiang University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kszpxxzmc"
+  github           : "Byron1201"
   google_plus      :
   keybase          :
   instagram        :
