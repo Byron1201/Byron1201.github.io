@@ -11,7 +11,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student at College of Computer Science and Technology, Zhejiang University, supervised by Prof. [Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en) and Prof [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en), and I work closely with [Yifei Huang](https://hyf015.github.io/) Prior to this, I got my Bachelor's degree from [Beihang University](https://is.buaa.edu.cn/en/) in 2023.
+I am a third-year Ph.D. student at College of Computer Science and Technology, Zhejiang University, supervised by Prof. [Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en) and Prof [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en), and I work closely with [Yifei Huang](https://hyf015.github.io/). Prior to this, I got my Bachelor's degree from [Beihang University](https://is.buaa.edu.cn/en/) in 2023.
 
 My research interest includes general video understanding, egocentric vision perception and multimodal large language models. 
 
@@ -32,48 +32,76 @@ My research interest includes general video understanding, egocentric vision per
 
 [EgoThinker: Unveiling Egocentric Reasoning with Spatio-Temporal CoT](https://github.com/InternRobotics/EgoThinker)
 
-Baoqi Pei, Yifei Huang, Jilan Xu, Yuping He, Guo Chen, et al.
+**Baoqi Pei**, Yifei Huang, Jilan Xu, Yuping He, Guo Chen, et al.
 
 [**[Paper]**](https://github.com/InternRobotics/EgoThinker)&nbsp;
 [**[Code]**](https://github.com/InternRobotics/EgoThinker)&nbsp;
 [**[Data]**](https://github.com/InternRobotics/EgoThinker)
 
+- A framework which equips MLLMs with strong egocentric reasoning via EgoRe-5M dataset, spatio-temporal chain-of-thought supervision and a two-stage training stage.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/papers/ECCV2024_teaser.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/papers/EgoHOD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation](https://arxiv.org/abs/2409.18261) [ECCV 2024]
+[EgoHOD: Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning](https://arxiv.org/abs/2503.00986)
 
-**Mengchen Zhang**, Tong Wu, Tai Wang, Tengfei Wang, Ziwei Liu, Dahua Lin 
+**Baoqi Pei**, Yifei Huang, Jilan Xu, Guo Chen, et al.  
 
-[**[Paper]**](https://arxiv.org/abs/2409.18261)&nbsp;
-[**[Video]**](https://www.youtube.com/watch?v=BKyw51bUhZs)&nbsp;
-[**[Code]**](https://github.com/3DTopia/Omni6D/)&nbsp;
-[**[Data]**](https://openxlab.org.cn/datasets/kszpxxzmcwww/Omni6D/)
+[**[Paper]**](https://arxiv.org/abs/2503.00986)&nbsp;
+[**[Code]**](https://github.com/InternRobotics/EgoHOD)&nbsp;
+[**[Data]**](https://huggingface.co/datasets/Jazzcharles/EgoHOD)
 
+- An egocentric video-language pretrained model that learns fine-grained egocentric video representations by modeling hand-object dynamics.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/papers/3DGen-Bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMMUT 2025</div><img src='images/papers/Vinci.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[3DGen-Bench: Comprehensive Benchmark Suite for 3D Generative Models](https://arxiv.org/abs/2503.21745) [Arxiv 2025]
+[Vinci: A real-time embodied smart assistant based on egocentric vision-language model](https://arxiv.org/abs/2412.21080)
 
-Yuhan Zhang$^\*$, **Mengchen Zhang**$^\*$, Tong Wu, Tengfei Wang, Gordon Wetzstein, Dahua Lin, Ziwei Liu
+Yifei Huang*, Jilan Xu*, **Baoqi Pei\***, Lijin Yang*, MingFang Zhang, Yuping He, Guo Chen, et al.
 
-[**[Project]**](https://zyh482.github.io/3DGen-Bench/)&nbsp;
-[**[Paper]**](https://arxiv.org/abs/2503.21745)&nbsp;
-[**[Code]**](https://github.com/3DTopia/3DGen-Bench)&nbsp;
-[**[Data]**](https://huggingface.co/datasets/3DGen/3DGen-Bench)
+[**[Paper]**](https://arxiv.org/abs/2412.21080)&nbsp;
+[**[Code]**](https://github.com/OpenGVLab/vinci)&nbsp;
 
+- A real-time egocentric wearable assistant to assist users with daily tasks, including scene understanding, grounding, summarization, and future planning.
 </div>
 </div>
 
-[LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation](https://arxiv.org/abs/2408.13252) [SIGGRAPH 2025]
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='images/papers/CoQo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CoQo: Guiding Audio-Visual Question Answering with Collective Question Reasoning](https://link.springer.com/article/10.1007/s11263-025-02510-7)
+
+**Baoqi Pei**, Yifei Huang, Guo Chen, etal.
+
+[**[Paper]**](https://link.springer.com/article/10.1007/s11263-025-02510-7)&nbsp;
+
+- A multimodal model to parse AVQA task with a Question Guided Transformer and Collective Question-Answering Training strategy.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/papers/Internvideo2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Internvideo2: Scaling foundation models for multimodal video understanding](https://arxiv.org/pdf/2403.15377)
+
+Yi Wang, Kunchang Li, Xinhao Li, Jiashuo Yu, Yinan He, Guo Chen, **Baoqi Pei**, Rongkun Zheng, Zun Wang, Yansong Shi, Tianxiang Jiang, Songze Li, Jilan Xu, Hongjie Zhang, Yifei Huang, Yu Qiao, Yali Wang, Limin Wang
+
+[**[Paper]**](https://arxiv.org/pdf/2403.15377)&nbsp;
+[**[Code]**](https://github.com/OpenGVLab/InternVideo)&nbsp;
+
+- A foundation model for video / text / audio understanding, achieving SOTA over several benchmarks.
+</div>
+</div>
+
+[A](https://arxiv.org/abs/2408.13252) [SIGGRAPH 2025]
 
 Shuai Yang, Jing Tan, **Mengchen Zhang**, Tong Wu, Yixuan Li, Gordon Wetzstein, Ziwei Liu, Dahua Lin
 
