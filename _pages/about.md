@@ -11,7 +11,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student at College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/), supervised by Prof. [Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en) and Prof [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en), and I work closely with [Yifei Huang](https://hyf015.github.io/). Prior to this, I got my Bachelor's degree from [Beihang University](https://is.buaa.edu.cn/en/) in 2023.
+Baoqi Pei am a third-year Ph.D. student at College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/), supervised by Prof. [Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en) and Prof [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en), and I work closely with [Yifei Huang](https://hyf015.github.io/). Prior to this, I got my Bachelor's degree from [Beihang University](https://is.buaa.edu.cn/en/) in 2023.
 
 My research interest includes general video understanding, egocentric vision perception and multimodal large language models. 
 
@@ -34,7 +34,7 @@ My research interest includes general video understanding, egocentric vision per
 
 **Baoqi Pei**, Yifei Huang, Jilan Xu, Yuping He, Guo Chen, et al.
 
-[**[Paper]**](https://github.com/InternRobotics/EgoThinker)&nbsp;
+[**[Paper]**](https://arxiv.org/abs/2510.23569)&nbsp;
 [**[Code]**](https://github.com/InternRobotics/EgoThinker)&nbsp;
 [**[Data]**](https://github.com/InternRobotics/EgoThinker)
 
