@@ -74,7 +74,7 @@ Yifei Huang\*, Jilan Xu\*, **Baoqi Pei\***, Lijin Yang, MingFang Zhang, Yuping H
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='images/papers/CoQo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/papers/CoQo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CoQo: Guiding Audio-Visual Question Answering with Collective Question Reasoning](https://link.springer.com/article/10.1007/s11263-025-02510-7)
