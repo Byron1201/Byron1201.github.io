@@ -11,7 +11,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Baoqi Pei am a third-year Ph.D. student at College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/), supervised by Prof. [Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en) and Prof [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en), and I work closely with [Yifei Huang](https://hyf015.github.io/). Prior to this, I got my Bachelor's degree from [Beihang University](https://is.buaa.edu.cn/en/) in 2023.
+I’m Baoqi Pei(裴宝琦). I am a third-year Ph.D. student at College of Computer Science and Technology, [Zhejiang University](https://www.zju.edu.cn/), supervised by Prof. [Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en) and Prof [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl=en), and I work closely with [Yifei Huang](https://hyf015.github.io/). Prior to this, I got my Bachelor's degree from [Beihang University](https://is.buaa.edu.cn/en/) in 2023.
 
 My research interest includes general video understanding, egocentric vision perception and multimodal large language models. 
 
